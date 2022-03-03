@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(253, 211, 218);
+    color:darkmagenta;
+     
+    font-size: 16px;
+    font-weight: 600;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box{
+    background-color: rgb(255, 255, 218);
+    padding: 15px;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    
+}
+.box h2{
+padding-bottom: 0px;
+}
+img{
+    margin-bottom: 15px;
+    width: 300;
+    
+}
+.bg-yellow{
+    background-color: rgba(254, 255, 209, 0.603);
+
+}
+.bg-green{
+    background-color: rgba(215, 240, 215, 0.589);
+    
+}
+.bg-blue{
+    background-color: rgba(230, 242, 253, 0.527);
+    
+}
+.box1{
+    margin-bottom: 15px;
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: brown;
+}
+a:visited {
+    color: grey;
+}
+.avatar {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 1px 0px 14px 9px rgba(0, 0, 0, 0.25);
+}
+h1{
+    font-family:fantasy;
+    letter-spacing: 10px;
+    font-weight: 400;
+    background-color: rgba(255, 228, 196, 0.705);
+    text-align: center;
+}
+.info p{
+    color:indigo;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.ssilka {
+    background-color: bisque;
+    padding: 15px;
+    border-radius: 15px;
+    border: 3px solid indigo;
+    border: dotted;
+    
+    border-color: darkviolet;
+    margin: 20px;
+}
+.container {
+     
+   
+    margin-bottom: 20%;
+    margin-left: 12%;
+    margin-right: 12%;
+
+}
+.spiska{
+    padding: 2 20px;
+
+}
+.spiska li{
+    color:gray;
+}
+.table{
+    width:100%
+    
+}
+.ssi {
+ list-style: square;
+ margin-bottom: 10px;
+ padding-bottom: 5px;
+ border-bottom: 1px solid #ccc;
+}
+.svaz h2 {
+    text-align: center;
+
+}
+.form-group label {
+    display: block;
+    margin: 5px;
+}
+.form-group input {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+}
+.knopka  {
+    background-color: rgb(250, 248, 215);
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+
+
+.krug {
+  position: fixed;
+  top: 670px; 
+  right: 20px;
+
+width: 40px;
+height: 40px;
+border-radius: 50%;
+border: 3px solid rgb(255, 255, 255);
+background-color: rgb(226, 255, 199);
+}
